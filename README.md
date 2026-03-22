@@ -1,0 +1,2 @@
+# simple-harness-test
+HarnessTestProject
